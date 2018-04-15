@@ -1,0 +1,142 @@
+# depslib dependency file v1.0
+1521607546 source:c:\users\truongpv\desktop\consoledisplay\colordisplay.cpp
+	"ColorDisplay.h"
+
+1521607802 c:\users\truongpv\desktop\consoledisplay\colordisplay.h
+	<windows.h>
+
+1521609903 source:c:\users\truongpv\desktop\consoledisplay\main.cpp
+	<iostream>
+	<conio.h>
+	"ColorDisplay.h"
+
+1521607546 source:c:\users\truongpv\desktop\codevisual\randisplay\colordisplay.cpp
+	"ColorDisplay.h"
+
+1521607802 c:\users\truongpv\desktop\codevisual\randisplay\colordisplay.h
+	<windows.h>
+
+1521610757 source:c:\users\truongpv\desktop\codevisual\randisplay\acsii.cpp
+	<iostream>
+
+1521638134 source:c:\users\truongpv\desktop\codevisual\randisplay\main.cpp
+	<iostream>
+	<conio.h>
+	"ColorDisplay.h"
+
+1521607546 source:c:\users\truongpv\desktop\snakeproject\snake0.1\colordisplay.cpp
+	"ColorDisplay.h"
+
+1521607802 c:\users\truongpv\desktop\snakeproject\snake0.1\colordisplay.h
+	<windows.h>
+
+1521649504 source:c:\users\truongpv\desktop\snakeproject\snake0.1\main.cpp
+	<iostream>
+	<conio.h>
+	"ColorDisplay.h"
+	<Windows.h>
+	<string.h>
+	<ctime>
+	<cstdlib>
+
+1521607546 source:c:\users\truongpv\desktop\snakeproject\snake0.2\colordisplay.cpp
+	"ColorDisplay.h"
+
+1521607802 c:\users\truongpv\desktop\snakeproject\snake0.2\colordisplay.h
+	<windows.h>
+
+1521732345 source:c:\users\truongpv\desktop\snakeproject\snake0.2\main.cpp
+	<iostream>
+	<conio.h>
+	"ColorDisplay.h"
+	<Windows.h>
+	<string.h>
+	<ctime>
+	<cstdlib>
+
+1521607546 source:c:\users\truongpv\desktop\snakeproject\snake0.3\colordisplay.cpp
+	"ColorDisplay.h"
+
+1521607802 c:\users\truongpv\desktop\snakeproject\snake0.3\colordisplay.h
+	<windows.h>
+
+1521740118 source:c:\users\truongpv\desktop\snakeproject\snake0.3\main.cpp
+	<iostream>
+	<conio.h>
+	"ColorDisplay.h"
+	<Windows.h>
+	<string.h>
+	<ctime>
+	<cstdlib>
+
+1521607546 source:c:\users\truongpv\desktop\snakeproject\snake0.4\colordisplay.cpp
+	"ColorDisplay.h"
+
+1521607802 c:\users\truongpv\desktop\snakeproject\snake0.4\colordisplay.h
+	<windows.h>
+
+1521742928 source:c:\users\truongpv\desktop\snakeproject\snake0.4\main.cpp
+	<iostream>
+	<conio.h>
+	"ColorDisplay.h"
+	<Windows.h>
+	<string.h>
+	<ctime>
+	<cstdlib>
+
+1521607546 source:c:\users\truongpv\desktop\snakeproject\snake0.5\colordisplay.cpp
+	"ColorDisplay.h"
+
+1521607802 c:\users\truongpv\desktop\snakeproject\snake0.5\colordisplay.h
+	<windows.h>
+
+1522819236 source:c:\users\truongpv\desktop\snakeproject\snake0.5\main.cpp
+	<iostream>
+	<cstring>
+	<conio.h>
+	"ColorDisplay.h"
+	<Windows.h>
+	<string.h>
+	<ctime>
+	<cstdlib>
+	<sstream>
+	<fstream>
+
+1521607546 source:c:\users\quangph\desktop\snake0.7\colordisplay.cpp
+	"ColorDisplay.h"
+
+1521607802 c:\users\quangph\desktop\snake0.7\colordisplay.h
+	<windows.h>
+
+1523641621 source:c:\users\quangph\desktop\snake0.7\main.cpp
+	<iostream>
+	<cstring>
+	<conio.h>
+	"ColorDisplay.h"
+	<Windows.h>
+	<string.h>
+	<ctime>
+	<cstdlib>
+	<sstream>
+	<fstream>
+	<vector>
+
+1521607546 source:c:\users\quangph\desktop\snake0.8\colordisplay.cpp
+	"ColorDisplay.h"
+
+1521607802 c:\users\quangph\desktop\snake0.8\colordisplay.h
+	<windows.h>
+
+1523769759 source:c:\users\quangph\desktop\snake0.8\main.cpp
+	<iostream>
+	<cstring>
+	<conio.h>
+	"ColorDisplay.h"
+	<Windows.h>
+	<string.h>
+	<ctime>
+	<cstdlib>
+	<sstream>
+	<fstream>
+	<vector>
+

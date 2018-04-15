@@ -1,0 +1,8 @@
+Su dung cac phim mui ten de di chuyen ran.
+Co gang an that nhieu qua de duoc diem cao nhat.
+Item :
+0 - Ban duoc cong +5 diem.
+1 - Ran ngan lai.
+2 - Giam toc do di chuyen.
+Tranh va phai nguoi nong dan va thanh tuong nhe.
+Chuc ban choi game vui ve.
